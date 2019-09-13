@@ -14,7 +14,7 @@ $('.hello').click(function(e){
  $("h1").mouseenter(function(e){
      $(e.target).css( "height", "20px" );
      $(e.target).css( "width", "20px" );
- });60px
+ });
  $("h1").mouseleave(function(e){
      $(e.target).css( "height", "25%" );
      $(e.target).css( "width", "25%" );
